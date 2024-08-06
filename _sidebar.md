@@ -1,0 +1,6 @@
+- [Help Center Home](/)
+- [How to Use ItalianChat](how-to-use.md)
+- [Manage Your Account](manage-account.md)
+- [Common Technical Issues](technical-issues.md)
+- [Frequently Asked Questions](faq.md)
+- [Contact Support](https://www.learnitalianpod.com/contact/)
