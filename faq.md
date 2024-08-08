@@ -64,7 +64,7 @@ Yes! We offer a 3-day free trial so you can experience the full potential of Ita
 
 Resetting your password is simple:
 
-1. Go to the password reset page on ItalianChat.com
+1. Go to the password reset page on ItalianChat
 2. Enter your email address
 3. Check your inbox for a password reset link
 4. Click the link and follow the prompts to create a new password
@@ -87,10 +87,8 @@ We want you to learn with confidence, knowing you have nothing to lose and a new
 
 Our dedicated support team is always ready to assist you. Here's how to reach us:
 
-- Email: supporto@italianchat.app
-- Visit our [Contact Us page](https://www.learnitalianpod.com/contact/) for more options
-
-<!-- ![Contact Information and Support Team](placeholder_support_team_image.jpg) -->
+- Email: support@italianchat.app
+- Visit our [Contact Us](https://www.learnitalianpod.com/contact/) page for more options
 
 We're committed to ensuring your ItalianChat experience is smooth and enjoyable. Don't hesitate to reach out with any questions or concerns!
 

@@ -4,3 +4,4 @@
 - [Common Technical Issues](technical-issues.md)
 - [Frequently Asked Questions](faq.md)
 - [Contact Support](https://www.learnitalianpod.com/contact/)
+- [Sign In to ItalianChat](https://app.learnitalianpod.com/)

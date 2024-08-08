@@ -1,6 +1,6 @@
 # How to Use ItalianChat: Help Center
 
-Welcome to the ItalianChat Help Center! Here you'll find guidance on how to make the most of our app and transform yourself into a confident Italian speaker. Can't find what you're looking for? Reach out to our support team at support@italianchat.com.
+Welcome to the ItalianChat Help Center! Here you'll find guidance on how to make the most of our app and transform yourself into a confident Italian speaker.
 
 ## Categories
 
@@ -10,6 +10,6 @@ Welcome to the ItalianChat Help Center! Here you'll find guidance on how to make
 - [Frequently Asked Questions](faq.md)
 - [Contact Support](https://www.learnitalianpod.com/contact/)
 
-We're here to ensure your experience with ItalianChat is smooth and enjoyable. If you can't find the answer you're looking for, don't hesitate to reach out to our support team.
+We're here to ensure your experience with ItalianChat is smooth and enjoyable. If you can't find the answer you're looking for, don't hesitate to reach out to our [support team](https://www.learnitalianpod.com/contact/).
 
 Buon apprendimento! (Happy learning!)

@@ -9,7 +9,7 @@
 
 Ready to embark on your Italian language journey? ItalianChat offers a risk-free 3-day trial to help you discover the full potential of our innovative learning platform. Here's how to get started:
 
-1. Visit our [pricing page](placeholder_link_to_pricing_page)
+1. Visit our [pricing page](https://app.learnitalianpod.com/plan-selection)
 2. Choose your ideal plan:
    - Monthly: Perfect for short-term goals
    - Annual: Best value for committed learners
@@ -35,11 +35,11 @@ Start your Italian adventure today and see how quickly you can progress with jus
 
 Accessing your ItalianChat account is quick and easy. Follow these simple steps:
 
-1. Go to the [ItalianChat homepage](placeholder_link_to_homepage)
-2. Click the "Log In" button in the top right corner
+1. Go to the [ItalianChat homepage](https://app.learnitalianpod.com/)
+2. Click the "Sign In" link in the top right corner
 3. Enter your registered email address
 4. Type in your password
-5. Click 'Accedi' (Log In)
+5. Click 'Login'
 
 <!-- ![Login page](placeholder_login_page_image.jpg) -->
 
@@ -47,7 +47,7 @@ Accessing your ItalianChat account is quick and easy. Follow these simple steps:
 
 Don't worry, we've got you covered! Here's how to reset your password:
 
-1. Click the 'Password Dimenticata?' (Forgot Password?) link on the login page
+1. Click the 'Forgot your password? link on the login page
 2. Enter your registered email address
 3. Check your inbox for a password reset link (don't forget to check your spam folder)
 4. Follow the instructions to create a new, secure password
@@ -64,7 +64,7 @@ At ItalianChat, we believe in transparent and hassle-free payment processes. Her
 
 - Securely managed by our trusted payment processor, Stripe.com
 - Stripe serves as the Merchant of Record for your subscription
-- You'll see "STRIPE.COM\* ITALIANCHAT" on your bank statement
+<!-- - You'll see "STRIPE.COM\* ITALIANCHAT" on your bank statement -->
 
 ### Subscription Control
 
@@ -75,20 +75,20 @@ You're in full control of your learning journey:
 
 <!-- ![Account dashboard](placeholder_account_dashboard_image.jpg) -->
 
-### Payment Methods
+<!-- ### Payment Methods
 
 We accept a variety of payment options for your convenience:
 
 - Major credit cards (Visa, MasterCard, American Express)
 - PayPal
 - Apple Pay
-- Google Pay
+- Google Pay -->
 
 ### Refunds
 
 Your satisfaction is guaranteed with our 30-day money-back policy:
 
-1. If you're not completely satisfied, simply email our support team
+1. If you're not completely satisfied, simply [contact us](https://www.learnitalianpod.com/contact/)
 2. We'll process your refund promptly, no questions asked
 
 ### Questions?
@@ -112,7 +112,6 @@ Here's our ironclad commitment to you:
 With ItalianChat, you can learn with confidence, knowing you have nothing to lose and a whole new language to gain. Start your Italian journey today and see how quickly you can progress with just 10 enjoyable minutes of practice each day!
 
 > "Ho imparato più italiano in un mese con ItalianChat che in un anno di lezioni tradizionali!" - Maria S., ItalianChat user
->
 > ("I learned more Italian in one month with ItalianChat than in a year of traditional lessons!")
 
-Ready to transform your Italian skills? [Start your free trial now](placeholder_link_to_trial_signup) and join thousands of satisfied learners!
+Ready to transform your Italian skills? [Start your free trial now](https://app.learnitalianpod.com/register) and join thousands of satisfied learners!

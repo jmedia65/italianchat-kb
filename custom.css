@@ -1,3 +1,32 @@
 body {
-    font-size: 18px;
-  }
+  font-size: 20px;
+}
+
+.sidebar > h1 {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  padding-left: 18px; /* Add left padding to move logo away from the edge */
+}
+
+.sidebar ul li a {
+  font-size: 18px; 
+}
+
+.app-name-link {
+  display: flex;
+  align-items: center;
+  font-size: 24px; /* Increased from 20px to 24px */
+  font-weight: bold; /* Make the text bold */
+}
+
+.app-name-link img {
+  margin-right: 10px; /* Increased from 10px to 15px for more space between logo and text */
+  height: 40px; /* Set a specific height for the logo */
+  width: auto; /* Maintain aspect ratio */
+}
+
+.with-shadow {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  border-radius: 4px;
+}

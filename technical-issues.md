@@ -41,13 +41,13 @@ For iPhone and iPad users:
 1. Open your device's Settings
 2. Scroll down and tap "Safari"
 3. In the "Settings for Websites" section, tap "Microphone"
-4. Select "Ask" or "Allow" for ItalianChat.com
+4. Select "Ask" or "Allow"
 
 <!-- ![iOS Safari microphone settings](placeholder_ios_safari_mic_settings.jpg) -->
 
 For Android users:
 
-1. Open Chrome and go to ItalianChat.com
+1. Open Chrome and go to ItalianChat.app
 2. Tap the lock icon in the address bar
 3. Tap "Permissions"
 4. Ensure the microphone is set to "Allow"
@@ -56,7 +56,7 @@ For desktop users:
 
 - Chrome: Click the lock icon in the address bar > Site Settings > Allow microphone
 - Firefox: Click the info icon in the address bar > More Information > Permissions > Allow microphone
-- Safari: Go to Safari > Preferences > Websites > Microphone > Allow for ItalianChat.com
+- Safari: Go to Safari > Preferences > Websites > Microphone > Allow
 
 <!-- ![Desktop browser microphone settings](placeholder_desktop_mic_settings.jpg) -->
 

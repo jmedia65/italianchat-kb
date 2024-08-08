@@ -16,51 +16,53 @@ Benvenuto to the ItalianChat app! We're thrilled to have you join our vibrant co
 
 Remember, there's no single "correct" way to use ItalianChat. The key to success is regularity. Here's a pro tip:
 
-> Dedicating just 5 minutes daily to your Italian practice is more beneficial than a marathon 2-hour session once a week.
+> Dedicating just 10 minutes daily to your Italian practice is more beneficial than a marathon 2-hour session once a week.
 
-Every day you engage with Italian is a triumph worth celebrating. That's why we prominently display your "Days Practiced" count on your dashboard. Whether you spend 5 minutes or an hour, each day of study contributes to this motivating metric.
+Every day you engage with Italian is a triumph worth celebrating. That's why we prominently display your "Days Practiced" and "Activities / Lesson Completed" count on your dashboard. Whether you spend 5 minutes or an hour, each day of study contributes to this motivating metric.
 
-<!-- ![Dashboard showing "Days Practiced" count](placeholder_dashboard_image.jpg) -->
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/activity-tracking.jpg" alt="Dashboard showing days practiced count" class="with-shadow">
 
 ### Life Happens, and That's Okay
 
-We understand that life can get hectic, and there might be periods when you can't access the app. Don't worry! Your "Days Practiced" count is persistent. Whenever you're ready to resume:
+We understand that life can get hectic, and there might be periods when you can't access the app. Don't worry! Your "Days Practiced" and "Activities / Lessons Completed" count is persistent. Whenever you're ready to resume:
 
-1. Open the app
-2. Click "Impara Ora" (Learn Now)
+1. Log in to the app
+2. Choose a lesson to study
 3. Pick up right where you left off
 
 ### The ItalianChat Learning Ecosystem
 
-Let's explore the two core elements that make ItalianChat an effective language learning tool:
+Let's explore the core elements that make ItalianChat an effective language learning tool:
 
 #### 1. Lesson Activities
 
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italian-chat-help-activities.jpg" style="width: 800px; max-width: 100%;" alt="ItalianChat Activities" class="with-shadow">
+
 ItalianChat offers a comprehensive set of activities designed to hone different aspects of your Italian skills:
 
-- **Leggi e Ascolta** (Read and Listen): Improve comprehension
-- **Traduzione** (Translation): Enhance your ability to switch between languages
-- **Pronuncia** (Pronunciation): Perfect your Italian accent
+- **Read and Listen** (Leggi e Ascolta): Improve comprehension
+- **Translation** (Traduzione): Enhance your ability to switch between languages
+- **Pronunciation** (Pronuncia): Perfect your Italian accent
 - **Quiz**: Test your knowledge retention
-- **Chat dal Vivo** (Live Chat): Practice real-time communication
+- **Live Chat** (Chat dal Vivo): Practice real-time communication
 
 #### 2. Tutor Virtuale (Virtual Tutor)
 
 This is where your learning comes to life. Our AI-powered Italian tutor creates an immersive environment for practicing authentic conversations. It's designed to boost your confidence and fluency in a safe, judgment-free space.
 
-<!-- ![Collage of different activity screens](placeholder_activity_screens.jpg) -->
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-ai-tutor.png" alt="Virtual Tutor" style="width: 500px; max-width: 100%;" class="with-shadow">
 
 Each lesson in ItalianChat is structured around everyday conversations. By the end of a lesson, you'll have exercised all the essential skills needed for confident real-world Italian interactions.
 
-### Embracing the Learning Curve
+<!-- ### Embracing the Learning Curve
 
 You might find the initial lessons challenging. This is completely normal and expected. Unlike many language apps, ItalianChat prepares you for authentic Italian conversations, which can feel daunting at first.
 
 Stick with it for a few days, and we promise you'll notice a significant boost in your Italian comprehension and speaking abilities. Remember:
 
-> Every 'Ciao' and 'Grazie' brings you closer to Italian fluency!
+> Every 'Ciao' and 'Grazie' brings you closer to Italian fluency! -->
 
-So, are you ready to start your Italian adventure? Let's dive in!
+Are you ready to start your Italian adventure? Let's dive in!
 
 ## How to Practice a Lesson
 
@@ -70,15 +72,17 @@ Here's a step-by-step guide to practicing a lesson effectively:
 
 ### 1. Read & Listen
 
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-help-read-listen.jpg" alt="Read & Listen activity screenshot" style="width: 500px; max-width: 100%;" class="with-shadow">
+
 Start by familiarizing yourself with the dialogue. This activity offers multiple ways to engage with the content:
 
 - Listen at regular speed for a natural flow
 - Use the slow speed option to catch every nuance
 - Practice line by line with both Italian and English translations
 
-<!-- ![Read & Listen activity screenshot](placeholder_read_listen_screenshot.jpg) -->
-
 ### 2. Translation
+
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-help-translation.jpg" alt="Translation activity screenshot" style="width: 500px; max-width: 100%;" class="with-shadow">
 
 Next, use our audio flashcards to enhance your translation skills:
 
@@ -86,9 +90,9 @@ Next, use our audio flashcards to enhance your translation skills:
 - Improve your ability to think in Italian
 - Refine your pronunciation by repeating after the native speaker
 
-<!-- ![Translation activity screenshot](placeholder_translation_screenshot.jpg) -->
-
 ### 3. Pronunciation
+
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-5-activities.png" alt="Pronunciation activity screenshot" style="width: 500px; max-width: 100%;" class="with-shadow">
 
 A standout feature of ItalianChat, this activity provides instant, AI-powered feedback on your pronunciation:
 
@@ -96,17 +100,15 @@ A standout feature of ItalianChat, this activity provides instant, AI-powered fe
 - Identify areas for improvement
 - Track your progress over time
 
-<!-- ![Pronunciation activity screenshot](placeholder_pronunciation_screenshot.jpg) -->
-
 ### 4. Lesson Quiz
+
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-help-lesson-quiz.jpg" alt="Lesson Quiz screenshot" style="width: 500px; max-width: 100%;" class="with-shadow">
 
 Reinforce your learning and test your understanding:
 
 - Answer questions based on the dialogue
 - Review key vocabulary and phrases
 - Identify areas that may need more practice
-
-<!-- ![Lesson Quiz screenshot](placeholder_lesson_quiz_screenshot.jpg) -->
 
 ### 5. Live Chat
 
@@ -116,8 +118,6 @@ Put your skills into practice with a simulated conversation:
 - Practice speaking Italian in context
 - Build confidence in real-world scenarios
 
-<!-- ![Live Chat activity screenshot](placeholder_live_chat_screenshot.jpg) -->
-
 ### Ready for the Next Level?
 
 Once you feel confident with the lesson material, it's time to take your skills to new heights:
@@ -125,8 +125,6 @@ Once you feel confident with the lesson material, it's time to take your skills 
 > Challenge yourself with our Live Tutor feature for a full, dynamic conversation experience in Italian.
 
 The Live Tutor provides a safe, judgment-free environment to practice everything you've learned in a more open-ended format.
-
-<!-- ![Live Tutor feature screenshot](placeholder_live_tutor_screenshot.jpg) -->
 
 Remember, consistent practice across all these activities will help you build a strong foundation in Italian. Don't be afraid to revisit lessons or spend extra time on activities you find challenging. Your journey to Italian fluency is unique, and ItalianChat is here to support you every step of the way!
 
@@ -138,7 +136,7 @@ The Live AI Tutor is one of ItalianChat's most powerful features, designed to ta
 
 When used in conjunction with the lessons, the Live AI Tutor provides an unparalleled opportunity to have authentic, real-life conversations in Italian. It's like having a patient, always-available Italian friend ready to chat with you!
 
-<!-- ![Live AI Tutor interface](placeholder_live_tutor_interface.jpg) -->
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-ai-tutor.png" alt="Virtual Tutor" style="width: 500px; max-width: 100%;" class="with-shadow">
 
 ### Practice Without Fear
 
@@ -151,8 +149,6 @@ One of the biggest barriers to language learning is the fear of making mistakes.
 ### Immersive Experience
 
 The tutor only speaks Italian, simulating the experience of being in Italy and speaking with a local who only understands and speaks Italian. This immersion is key to developing your language instincts and thinking in Italian.
-
-<!-- ![AI Tutor conversation example](placeholder_conversation_example.jpg) -->
 
 ### Reinforcing Your Lessons
 
@@ -198,8 +194,6 @@ What you really need is to practice speaking, which is exactly what ItalianChat 
 - Real-life scenarios
 - Immediate feedback and correction
 
-<!-- ![Practice activities in ItalianChat](placeholder_practice_activities.jpg) -->
-
 ### The Role of Grammar
 
 As you become more familiar with basic Italian conversations, grammar knowledge can enhance your skills:
@@ -228,8 +222,6 @@ ItalianChat's approach combines the best of both worlds:
 - Live AI Tutor allows for free-form practice
 - You learn to communicate effectively while unconsciously absorbing grammatical structures
 
-<!-- ![ItalianChat learning approach](placeholder_learning_approach.jpg) -->
-
 Remember, the goal is communication. With ItalianChat, you'll be speaking Italian confidently long before you can recite all the grammar rules – just like a native speaker!
 
 ## What do A1, A2, and B1 mean?
@@ -239,8 +231,6 @@ At ItalianChat, we're committed to providing you with a structured, effective, a
 ### Understanding CEFR Language Levels
 
 The CEFR is an international standard for describing language ability. It uses a six-point scale, from A1 for beginners up to C2 for those who have mastered a language. ItalianChat currently focuses on the foundational levels: A1, A2, and B1.
-
-<!-- ![CEFR Language Levels Overview](placeholder_cefr_levels_image.jpg) -->
 
 Let's break down what each level means for your Italian learning journey:
 
@@ -253,7 +243,7 @@ At this level, you're taking your first steps in Italian:
 - Ask and answer simple questions about personal details
 - Interact in a simple way if the other person talks slowly and clearly
 
-**Example skills:** Ordering a coffee, greeting people, asking for directions
+<!-- **Example skills:** Ordering a coffee, greeting people, asking for directions -->
 
 ### A2 - Elementary
 
@@ -263,7 +253,7 @@ Building on A1, at A2 you can:
 - Describe aspects of your background, immediate environment, and matters in areas of immediate need
 - Understand sentences and frequently used expressions related to basic personal and family information, shopping, local geography, employment
 
-**Example skills:** Describing your family, talking about your hobbies, making simple transactions in shops
+<!-- **Example skills:** Describing your family, talking about your hobbies, making simple transactions in shops -->
 
 ### B1 - Intermediate
 
@@ -274,7 +264,7 @@ At B1, you're becoming an independent user of Italian:
 - Produce simple connected texts on topics that are familiar or of personal interest
 - Describe experiences and events, dreams, hopes, and ambitions and briefly give reasons and explanations for opinions and plans
 
-**Example skills:** Explaining viewpoints on a topical issue, describing the plot of a book or film, writing a simple essay expressing your opinion
+<!-- **Example skills:** Explaining viewpoints on a topical issue, describing the plot of a book or film, writing a simple essay expressing your opinion -->
 
 ### Why These Levels Matter
 
@@ -291,7 +281,7 @@ While ItalianChat currently focuses on levels up to B1, mastering these foundati
 
 Remember, language learning is a journey, not a race. Each level represents significant progress in your ability to communicate in Italian. Celebrate your achievements at each stage, and keep pushing forward!
 
-> "La lingua è il riflesso delle persone che la parlano." - Italian proverb
-> ("Language is the reflection of the people who speak it.")
+> "Una lingua è una tradizione, un modo di sentire la realtà, non un arbitrario repertorio di simboli." - Jorge Luis Borges
+> ("A language is a tradition, a way of feeling reality, not an arbitrary repertoire of symbols.")
 
 Ready to start your journey through the CEFR levels with ItalianChat? Let's begin!
