@@ -92,7 +92,7 @@ Next, use our audio flashcards to enhance your translation skills:
 
 ### 3. Pronunciation
 
-<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-5-activities.png" alt="Pronunciation activity screenshot" style="width: 500px; max-width: 100%;" class="with-shadow">
+<img src="https://www.learnitalianpod.com/wp-content/uploads/2024/08/italianchat-pronunciation.png" alt="Pronunciation activity screenshot" style="width: 500px; max-width: 100%;" class="with-shadow">
 
 A standout feature of ItalianChat, this activity provides instant, AI-powered feedback on your pronunciation:
 
