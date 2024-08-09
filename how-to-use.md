@@ -46,7 +46,7 @@ ItalianChat offers a comprehensive set of activities designed to hone different 
 - **Quiz**: Test your knowledge retention
 - **Live Chat** (Chat dal Vivo): Practice real-time communication
 
-#### 2. Tutor Virtuale (Virtual Tutor)
+#### 2. Virtual Tutor
 
 This is where your learning comes to life. Our AI-powered Italian tutor creates an immersive environment for practicing authentic conversations. It's designed to boost your confidence and fluency in a safe, judgment-free space.
 
