@@ -284,4 +284,4 @@ Remember, language learning is a journey, not a race. Each level represents sign
 > "Una lingua è una tradizione, un modo di sentire la realtà, non un arbitrario repertorio di simboli." - Jorge Luis Borges
 > ("A language is a tradition, a way of feeling reality, not an arbitrary repertoire of symbols.")
 
-Ready to start your journey through the CEFR levels with ItalianChat? Let's begin!
+Ready to start your journey through the CEFR levels with ItalianChat? [Let's begin!](https://app.learnitalianpod.com/register)
