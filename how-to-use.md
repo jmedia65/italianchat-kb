@@ -68,6 +68,10 @@ Are you ready to start your Italian adventure? Let's dive in!
 
 While there's no one-size-fits-all approach to language learning, ItalianChat offers a structured method to maximize your learning experience. Each lesson is designed to engage multiple language skills, ensuring a comprehensive learning journey.
 
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/wRM20UH7XN4?si=NnrE0Y0vx4KEgJLE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 Here's a step-by-step guide to practicing a lesson effectively:
 
 ### 1. Read & Listen
