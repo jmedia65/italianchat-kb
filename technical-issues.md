@@ -28,7 +28,7 @@ If you're having trouble hearing your Italian lessons, try these simple steps:
 
 4. Restart the app or refresh your browser page
 
-> Pro Tip: Always test your audio before starting a lesson or Live AI Tutor session!
+> Pro Tip: Always test your audio before starting a lesson or a speaking session in ItalianChat.
 
 If you've tried these steps and still can't hear anything, don't worry! Our support team is just a click away.
 
@@ -47,7 +47,7 @@ For iPhone and iPad users:
 
 For Android users:
 
-1. Open Chrome and go to ItalianChat.app
+1. Open Chrome and go to https://app.learnitalianpod.com/
 2. Tap the lock icon in the address bar
 3. Tap "Permissions"
 4. Ensure the microphone is set to "Allow"
@@ -73,7 +73,7 @@ Remember, technology should enhance your learning, not hinder it. If you're stil
 
 > "I was worried about tech issues, but ItalianChat's support team had me up and running in minutes!" - Marco R., ItalianChat learner
 
-Don't let minor technical glitches slow down your progress. Contact our [support team](https://www.learnitalianpod.com/contact/) right away, and we'll have you saying "Ciao!" to your AI tutor in no time!
+Don't let minor technical glitches slow down your progress. Contact our [support team](https://www.learnitalianpod.com/contact/) right away, and we'll have you back to practicing Italian in no time!
 
 <!-- ![Happy ItalianChat user](placeholder_happy_user_image.jpg) -->
 

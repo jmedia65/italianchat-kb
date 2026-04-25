@@ -8,55 +8,67 @@ Get quick answers to common questions about ItalianChat and start your language 
 
 ### What is ItalianChat?
 
-ItalianChat is an innovative language learning app designed to help you speak Italian confidently and fluently. It combines structured lessons with an AI-driven Italian tutor, providing a comprehensive and interactive learning experience.
+ItalianChat is an interactive Italian learning app designed to help you start speaking from day one. It combines structured lessons with pronunciation feedback, guided speaking practice with Sofia, the Italian Stories Library, and a Personal Phrase Bank.
 
 ### How is ItalianChat different from other Italian learning apps?
 
-ItalianChat stands out with its unique blend of structured lessons and real-life interactivity:
+ItalianChat is built around real speaking practice, not passive study. Each lesson combines:
 
-1. **AI-Driven Italian Tutor**: Practice natural conversations without stress or pressure, helping you overcome the fear of speaking a new language.
-2. **Comprehensive Lesson Structure**: Engage with various activities including:
-   - Read & Listen
-   - Translation exercises
-   - Pronunciation practice with AI feedback
-   - Quizzes
-   - Live chat simulations
+- Read & Listen
+- Translation
+- Pronunciation with instant feedback
+- Lesson Quiz
+- Chat Simulation
 
-This combination accelerates your learning, making it more effective and enjoyable than traditional methods.
+On top of the lesson flow, you can practice with Sofia, build fluency with Stories, and save useful expressions to your Personal Phrase Bank. The goal is to help you move from understanding Italian to actually using it.
 
 ### Why is it important to start speaking immediately?
 
-Starting to speak immediately is crucial because it:
+Starting to speak immediately is important because it:
 
 - Accelerates your learning process
 - Builds confidence quickly
-- Overcomes the common struggle of finding native speakers to practice with
-- Reduces embarrassment often associated with speaking a new language
+- Helps you remember phrases more naturally
+- Reduces the fear of making mistakes
 
-ItalianChat's AI tutor is endlessly patient, allowing you to practice anytime and gain fluency faster.
+ItalianChat gives you structured speaking practice, immediate pronunciation feedback, and guided voice coaching so you can build confidence faster.
+
+### What happened to the old LearnItalianPod learning material?
+
+The original LearnItalianPod podcast material was the foundation for ItalianChat, but ItalianChat is now the main learning platform. The older material has been replaced by a more interactive system focused on lessons, speaking practice, pronunciation feedback, and guided repetition.
 
 ## Getting Started
 
 ### I'm a beginner. Is ItalianChat for me?
 
-ABSOLUTELY! ItalianChat was designed with beginners in mind. Whether you're a complete novice or have some basic knowledge, our app will guide you from your first "Ciao" to having full conversations in Italian in a surprisingly short time.
+Absolutely. ItalianChat was designed with beginners in mind. Whether you're starting from zero or coming back to Italian after a long break, the app is built to help you progress step by step.
 
 ### How do I create an account and begin my free trial?
 
 Getting started with ItalianChat is easy:
 
-1. Visit the ItalianChat signup page
-2. Fill in the required information
-3. Select your preferred plan on our pricing page
-4. Enter your payment details to start your risk-free 3-day trial
+1. Visit the [pricing page](https://app.learnitalianpod.com/plan-selection)
+2. Choose the plan that works best for you
+3. Create your account
+4. Enter your payment details to start your 3-day free trial
 
 <!-- ![Signup Process Flowchart](placeholder_signup_flowchart.jpg) -->
 
-Note: You won't be charged until the end of the trial period, and you can cancel anytime before it ends.
+Note: You won't be charged until the end of the trial period, and you can cancel any time before it ends.
 
 ### Do you offer a free trial?
 
-Yes! We offer a 3-day free trial so you can experience the full potential of ItalianChat risk-free. During this period, you'll have complete access to all features, including lessons and the AI tutor.
+Yes. ItalianChat includes a 3-day free trial with full access to the main features so you can explore the lessons, Sofia, Stories, and more before deciding to continue.
+
+### Why do you ask for payment details for the free trial?
+
+We ask for payment details for three main reasons:
+
+- It helps prevent abuse of the free trial.
+- It gives you a seamless transition if you decide to continue after the trial.
+- You are still protected by our 30-day money-back guarantee after the trial starts billing.
+
+You can cancel any time during the 3-day trial and you will not be charged.
 
 ## Account Management
 
@@ -64,16 +76,21 @@ Yes! We offer a 3-day free trial so you can experience the full potential of Ita
 
 Resetting your password is simple:
 
-1. Go to the password reset page on ItalianChat
-2. Enter your email address
-3. Check your inbox for a password reset link
-4. Click the link and follow the prompts to create a new password
+1. Go to the ItalianChat login page at https://app.learnitalianpod.com/
+2. Click the "Forgot your password?" link
+3. Enter your email address
+4. Check your inbox for a password reset link
+5. Follow the prompts to create a new password
+
+### Can I cancel anytime?
+
+Yes. You can cancel your subscription directly from your account area. If you cancel before the free trial ends, you will not be charged.
 
 ## Payments and Refunds
 
 ### Can I get a refund?
 
-Absolutely! We offer a no-risk guarantee:
+Yes. We offer a no-risk guarantee:
 
 1. Enjoy a 3-day free trial with full access to all features.
 2. After your trial, you're protected by our 30-day money-back guarantee.

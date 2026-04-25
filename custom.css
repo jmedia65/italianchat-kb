@@ -31,6 +31,31 @@ body {
   border-radius: 4px;
 }
 
+.must-read {
+  margin: 16px 0;
+  padding: 16px 18px;
+  background: #f6efe1;
+  border-left: 4px solid #c88a1f;
+  border-radius: 8px;
+}
+
+.cta-link {
+  display: inline-block;
+  margin: 12px 0 24px;
+  padding: 12px 18px;
+  background: #0f766e;
+  color: #fff !important;
+  border-radius: 999px;
+  font-size: 17px;
+  font-weight: 700;
+  text-decoration: none !important;
+  box-shadow: 0 10px 24px rgba(15, 118, 110, 0.18);
+}
+
+.cta-link:hover {
+  background: #0b5f59;
+}
+
 .search {
   margin-bottom: 20px;
   padding: 6px;
@@ -56,9 +81,13 @@ body {
   height: 0;
   overflow: hidden;
   max-width: 100%;
+  margin: 20px 0;
+  background: #000;
+  border-radius: 8px;
 }
 
-.video-container iframe {
+.video-container iframe,
+.video-container video {
   position: absolute;
   top: 0;
   left: 0;

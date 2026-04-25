@@ -1,4 +1,5 @@
 - [Help Center Home](/)
+- [Start Here: How to Practice a Lesson](how-to-practice-a-lesson.md)
 - [How to Use ItalianChat](how-to-use.md)
 - [Manage Your Account](manage-account.md)
 - [Common Technical Issues](technical-issues.md)
