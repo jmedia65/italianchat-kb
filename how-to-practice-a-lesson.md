@@ -16,8 +16,6 @@ This is the page to read before you start practicing your first lesson. If you w
 
 ItalianChat works best when you follow the lesson flow in order and speak out loud as you go. The goal is not to study passively. The goal is to move from understanding Italian to actually using it.
 
-<a class="cta-link" href="https://app.learnitalianpod.com/">Open ItalianChat Lessons</a>
-
 ## What's Inside Every ItalianChat Lesson
 
 Every ItalianChat lesson is built around five core activities that reinforce each other:
