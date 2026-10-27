@@ -8,7 +8,7 @@ Get quick answers to common questions about ItalianChat and start your language 
 
 ### What is ItalianChat?
 
-ItalianChat is an interactive Italian learning app designed to help you start speaking from day one. It combines structured lessons with pronunciation feedback, guided speaking practice with Sofia, the Italian Stories Library, and a Personal Phrase Bank.
+ItalianChat is an interactive Italian learning app designed to help you start speaking from day one. It combines structured lessons with pronunciation feedback, guided speaking practice with a choice of four Italian AI teachers, the Italian Stories Library, and a Personal Phrase Bank.
 
 ### How is ItalianChat different from other Italian learning apps?
 
@@ -20,7 +20,7 @@ ItalianChat is built around real speaking practice, not passive study. Each less
 - Lesson Quiz
 - Chat Simulation
 
-On top of the lesson flow, you can practice with Sofia, build fluency with Stories, and save useful expressions to your Personal Phrase Bank. The goal is to help you move from understanding Italian to actually using it.
+On top of the lesson flow, you can practice with your chosen teacher, build fluency with Stories, and save useful expressions to your Personal Phrase Bank. The goal is to help you move from understanding Italian to actually using it.
 
 ### Why is it important to start speaking immediately?
 
@@ -58,7 +58,7 @@ Note: You won't be charged until the end of the trial period, and you can cancel
 
 ### Do you offer a free trial?
 
-Yes. ItalianChat includes a 3-day free trial with full access to the main features so you can explore the lessons, Sofia, Stories, and more before deciding to continue.
+Yes. ItalianChat includes a 3-day free trial with full access to the main features so you can explore the lessons, guided speaking practice, Stories, and more before deciding to continue.
 
 ### Why do you ask for payment details for the free trial?
 

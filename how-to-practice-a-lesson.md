@@ -2,7 +2,7 @@
 
 - [Read This Before You Start](#read-this-before-you-start)
 - [What's Inside Every ItalianChat Lesson](#whats-inside-every-italianchat-lesson)
-- [Meet Sofia, Your Italian Voice Coach](#meet-sofia-your-italian-voice-coach)
+- [Meet Your Italian Teachers](#meet-your-italian-teachers)
 - [Build Fluency with the Italian Stories Library](#build-fluency-with-the-italian-stories-library)
 - [Save What Matters with Your Personal Phrase Bank](#save-what-matters-with-your-personal-phrase-bank)
 - [The Best Way to Use ItalianChat](#the-best-way-to-use-italianchat)
@@ -28,7 +28,7 @@ Every ItalianChat lesson is built around five core activities that reinforce eac
 
 On top of that, you also have:
 
-- Sofia, your voice coach for guided speaking practice
+- Your choice of four Italian AI teachers for guided speaking practice
 - The Italian Stories Library for reading and listening fluency
 - Your Personal Phrase Bank to save and review useful phrases
 
@@ -116,9 +116,9 @@ If you have worked through the lesson in order, Chat Simulation will feel much e
 
 <a class="cta-link" href="https://app.learnitalianpod.com/">Open ItalianChat Lessons</a>
 
-## Meet Sofia, Your Italian Voice Coach
+## Meet Your Italian Teachers
 
-After your lesson, keep going with Sofia for guided speaking practice in real time.
+Choose from four Italian AI teachers—Sofia, Luca, Marco, and Elena—for guided speaking practice with support in English. Open Live Tutor, then select Change teacher in the app header to hear voice previews and choose. Your choice is saved across speaking activities and applies when you start your next session.
 
 <div class="video-container">
 <video controls playsinline preload="metadata" poster="https://www.learnitalianpod.com/wp-content/uploads/2026/03/italianchat_demo_poster_img_smaller.jpg">
@@ -126,15 +126,17 @@ After your lesson, keep going with Sofia for guided speaking practice in real ti
 </video>
 </div>
 
-Sofia is designed to help beginners speak out loud with confidence:
+*This demo features Sofia, one of four available teachers.*
 
-- She speaks in Italian.
-- She explains in English when needed.
-- She asks you to repeat and keeps you moving step by step.
-- She corrects your pronunciation and helps you improve in real time.
-- She does not rush and she does not judge.
+Your teacher helps beginners speak out loud with confidence:
 
-If you want a guided speaking session after your lesson, Sofia is the next best step.
+- Speaks in Italian.
+- Explains in English when needed.
+- Asks you to repeat and keeps you moving step by step.
+- Offers corrections and support as you practice.
+- Does not rush or judge.
+
+For extra guided speaking practice after your lesson, open Live Tutor and practice with your chosen teacher.
 
 ## Build Fluency with the Italian Stories Library
 
@@ -172,7 +174,7 @@ The most effective routine is simple:
 
 1. Complete the lesson in order.
 2. Speak out loud during every activity.
-3. Use Sofia after the lesson when you want extra guided speaking practice.
+3. Practice with your chosen teacher after the lesson when you want extra guided speaking practice.
 4. Use Stories for extra reading and listening.
 5. Save useful expressions to Phrase Bank as you go.
 

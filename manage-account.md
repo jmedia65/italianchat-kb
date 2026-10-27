@@ -19,7 +19,7 @@ Ready to begin your Italian journey? ItalianChat offers a risk-free 3-day trial 
 During your trial, you can explore:
 
 - The full lesson activities
-- Sofia voice coaching
+- Guided speaking practice with four Italian AI teachers
 - The Italian Stories Library
 - Your Personal Phrase Bank
 - Progress tracking

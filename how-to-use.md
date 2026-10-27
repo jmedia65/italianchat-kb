@@ -30,9 +30,9 @@ Every lesson is built around five core activities:
 
 Used in order, these activities help you move from understanding a dialogue to using it confidently.
 
-### Sofia Voice Coach
+### Live Tutor
 
-Sofia is your guided voice coach for real-time speaking practice. She speaks in Italian, explains in English when needed, asks you to repeat, and helps you keep going until the phrases feel natural.
+Choose from four Italian AI teachers—Sofia, Luca, Marco, and Elena—for real-time guided speaking practice. Your teacher speaks in Italian, explains in English when needed, asks you to repeat, and helps you keep going until the phrases feel natural.
 
 ### Italian Stories Library
 
@@ -44,13 +44,13 @@ Phrase Bank lets you save the expressions you want to remember, review them late
 
 ## How to Practice a Lesson
 
-If you want the best results, do not jump randomly between activities. Follow the lesson flow from start to finish, then use Sofia, Stories, and Phrase Bank to reinforce what you learned.
+If you want the best results, do not jump randomly between activities. Follow the lesson flow from start to finish, then use guided speaking practice, Stories, and Phrase Bank to reinforce what you learned.
 
 The full step-by-step guide includes:
 
 - the right order for each lesson activity
 - the embedded walkthrough videos for every step
-- tips for getting more from Sofia
+- tips for getting more from guided speaking practice
 - when to use Stories and Phrase Bank
 
 <a class="cta-link" href="#/how-to-practice-a-lesson">Go to the Step-by-Step Lesson Guide</a>
